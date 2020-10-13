@@ -1,0 +1,14 @@
+C:\Users\darkt\source\repos\ProjetCompteBancaire\bin\Debug\ProjetCompteBancaire.exe.config
+C:\Users\darkt\source\repos\ProjetCompteBancaire\bin\Debug\ProjetCompteBancaire.exe
+C:\Users\darkt\source\repos\ProjetCompteBancaire\bin\Debug\ProjetCompteBancaire.pdb
+C:\Users\darkt\source\repos\ProjetCompteBancaire\obj\Debug\ProjetCompteBancaire.csprojAssemblyReference.cache
+C:\Users\darkt\source\repos\ProjetCompteBancaire\obj\Debug\ProjetCompteBancaire.csproj.CoreCompileInputs.cache
+C:\Users\darkt\source\repos\ProjetCompteBancaire\obj\Debug\ProjetCompteBancaire.exe
+C:\Users\darkt\source\repos\ProjetCompteBancaire\obj\Debug\ProjetCompteBancaire.pdb
+C:\Users\darkt\OneDrive\Cours developpement\Projet\ProjetCompteBancaire\bin\Debug\ProjetCompteBancaire.exe.config
+C:\Users\darkt\OneDrive\Cours developpement\Projet\ProjetCompteBancaire\bin\Debug\ProjetCompteBancaire.exe
+C:\Users\darkt\OneDrive\Cours developpement\Projet\ProjetCompteBancaire\bin\Debug\ProjetCompteBancaire.pdb
+C:\Users\darkt\OneDrive\Cours developpement\Projet\ProjetCompteBancaire\obj\Debug\ProjetCompteBancaire.csprojAssemblyReference.cache
+C:\Users\darkt\OneDrive\Cours developpement\Projet\ProjetCompteBancaire\obj\Debug\ProjetCompteBancaire.csproj.CoreCompileInputs.cache
+C:\Users\darkt\OneDrive\Cours developpement\Projet\ProjetCompteBancaire\obj\Debug\ProjetCompteBancaire.exe
+C:\Users\darkt\OneDrive\Cours developpement\Projet\ProjetCompteBancaire\obj\Debug\ProjetCompteBancaire.pdb
